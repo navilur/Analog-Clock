@@ -11,33 +11,6 @@ body {
   min-height: 100vh;
 }
 
-/* 3D Holographic Text */
-
-/* .text {
-  --c: #1dd3b01a;
-  color: #ffffffa0;
-  font-size: 15rem;
-  letter-spacing: 0.4rem;
-  text-shadow: 5px 5px var(--c), 10px 10px var(--c), 15px 15px var(--c),
-    20px 20px var(--c), 40px 40px var(--c);
-  border: 5px solid #1dd3b060;
-  padding: 1rem 4rem 3rem;
-  transform: skew(-10deg);
-  animation: text_ani 5s ease-in-out infinite alternate;
-  border-radius: 1rem;
-  outline: none;
-}
-
-@keyframes text_ani {
-  100% {
-    text-shadow: -5px 5px var(--c), -10px 10px var(--c), -15px 15px var(--c),
-      -20px 20px var(--c), -40px 40px var(--c);
-    transform: skew(10deg);
-  }
-} */
-
-/* !3D Holographic Text */
-
 /*  Analog Clock */
 
 body::before {
